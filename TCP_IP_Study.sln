@@ -19,6 +19,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorldIterativeServer",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorldIterativeClient", "HelloWorldIterativeClient\HelloWorldIterativeClient.vcxproj", "{3ED9AEE5-C421-4F78-B672-370969DAE604}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StringServer", "StringServer\StringServer.vcxproj", "{D6456327-5E50-4C6B-85EF-43C4526814AA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StringClient", "StringClient\StringClient.vcxproj", "{FC8BABEB-4E47-4C80-892A-1D349B0B902B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +95,22 @@ Global
 		{3ED9AEE5-C421-4F78-B672-370969DAE604}.Release|x64.Build.0 = Release|x64
 		{3ED9AEE5-C421-4F78-B672-370969DAE604}.Release|x86.ActiveCfg = Release|Win32
 		{3ED9AEE5-C421-4F78-B672-370969DAE604}.Release|x86.Build.0 = Release|Win32
+		{D6456327-5E50-4C6B-85EF-43C4526814AA}.Debug|x64.ActiveCfg = Debug|x64
+		{D6456327-5E50-4C6B-85EF-43C4526814AA}.Debug|x64.Build.0 = Debug|x64
+		{D6456327-5E50-4C6B-85EF-43C4526814AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{D6456327-5E50-4C6B-85EF-43C4526814AA}.Debug|x86.Build.0 = Debug|Win32
+		{D6456327-5E50-4C6B-85EF-43C4526814AA}.Release|x64.ActiveCfg = Release|x64
+		{D6456327-5E50-4C6B-85EF-43C4526814AA}.Release|x64.Build.0 = Release|x64
+		{D6456327-5E50-4C6B-85EF-43C4526814AA}.Release|x86.ActiveCfg = Release|Win32
+		{D6456327-5E50-4C6B-85EF-43C4526814AA}.Release|x86.Build.0 = Release|Win32
+		{FC8BABEB-4E47-4C80-892A-1D349B0B902B}.Debug|x64.ActiveCfg = Debug|x64
+		{FC8BABEB-4E47-4C80-892A-1D349B0B902B}.Debug|x64.Build.0 = Debug|x64
+		{FC8BABEB-4E47-4C80-892A-1D349B0B902B}.Debug|x86.ActiveCfg = Debug|Win32
+		{FC8BABEB-4E47-4C80-892A-1D349B0B902B}.Debug|x86.Build.0 = Debug|Win32
+		{FC8BABEB-4E47-4C80-892A-1D349B0B902B}.Release|x64.ActiveCfg = Release|x64
+		{FC8BABEB-4E47-4C80-892A-1D349B0B902B}.Release|x64.Build.0 = Release|x64
+		{FC8BABEB-4E47-4C80-892A-1D349B0B902B}.Release|x86.ActiveCfg = Release|Win32
+		{FC8BABEB-4E47-4C80-892A-1D349B0B902B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
